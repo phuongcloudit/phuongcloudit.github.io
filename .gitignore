@@ -1,0 +1,13 @@
+.webassets-cache
+theme/js/*
+theme/css/*
+theme/webassets-external/*
+!theme/css/vpyeu.min.css
+!theme/js/vpyeu.min.js
+!theme/js/disqus.min.js
+archives.html
+author*
+categor*.html
+tag*
+.DS_Store
+*.xcf
